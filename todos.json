@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "Belajar Go",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "title": "create table products",
+    "completed": true
+  }
+]
